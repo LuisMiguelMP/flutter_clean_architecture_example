@@ -1,6 +1,6 @@
-# Regions
+# Flutter Clean Architecture
 
-Flutter Clean Architecture Example
+Flutter Clean Architecture Example consuming the Brazilian Regions API provided by IBGE.
 
 ## Getting Started
 
