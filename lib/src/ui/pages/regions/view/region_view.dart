@@ -1,8 +1,8 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:regions/src/domain/entities/region_entity.dart';
-import 'package:regions/src/domain/ui/pages/regions/presenter/region_presenter.dart';
+
+import '../../../../domain/entities/region_entity.dart';
+import '../presenter/region_presenter.dart';
 
 class RegionView extends StatelessWidget {
   @override

@@ -1,9 +1,10 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:regions/src/domain/data/mappers/region_mapper.dart';
 import 'package:regions/src/domain/entities/region_entity.dart';
 import 'package:regions/src/domain/repositories/region_repository.dart';
+
+import '../../data/mappers/region_mapper.dart';
 
 class RegionRepositoryImpl implements RegionRepository {
   @override

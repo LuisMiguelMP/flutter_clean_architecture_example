@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'src/domain/ui/pages/regions/region_page.dart';
+import 'src/ui/pages/regions/region_page.dart';
 
 void main() {
   runApp(MyApp());
